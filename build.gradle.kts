@@ -16,7 +16,7 @@ repositories {
 }
 
 dependencies {
-    api("me.fapcs:Shared:0.3.0")
+    api("me.fapcs:Shared:0.4.0")
 }
 
 tasks {
